@@ -46,6 +46,10 @@
 
 ![3-Lower-Architecture](images/01.png)
 
+上記アーキテクチャーは [Copilot Stack](https://news.microsoft.com/ja-jp/features/230524-microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/)をベースに構成されています。
+
+![Copilot Stack](images/02.jpg)
+
 
 ## 3. アーキテクチャーのポイント／サンプル
 各レイヤーで利用可能なサンプルと目的を以下にまとめます。
